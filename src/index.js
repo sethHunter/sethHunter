@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 
 const routes = [
   {
-    path: '/SethHunter/',
+    path: '/sethHunter/',
     element: (
       <div>
         <Navbar />
@@ -18,15 +18,15 @@ const routes = [
     ),
     children: [
       {
-        path: '/SethHunter/',
+        path: '/sethHunter/',
         element: <HomePage />,
       },
       {
-        path: '/SethHunter/projects',
+        path: '/sethHunter/projects',
         element: <ProjectsPage />,
       },
       {
-        path: '/SethHunter/contact',
+        path: '/sethHunter/contact',
         element: <Contact />,
       },
     ],

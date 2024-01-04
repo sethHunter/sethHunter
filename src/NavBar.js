@@ -10,10 +10,10 @@ const Navbar = () => {
         <Button color="inherit" href="/sethHunter">
           Home
         </Button>
-        <Button color="inherit" href="/SethHunter/contact">
+        <Button color="inherit" href="/sethHunter/contact">
           Contact
         </Button>
-        <Button color="inherit" href="/SethHunter/projects">
+        <Button color="inherit" href="/sethHunter/projects">
           Projects
         </Button>
       </Toolbar>
