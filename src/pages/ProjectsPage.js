@@ -11,7 +11,7 @@ const ProjectsPage = () => {
         &nbsp;is my calculator project.
       </h1>
       <img
-        src={'/images/Calculator.png'}
+        src={require("../Calculator.png")}
         alt='Add to Cart'
         style={{ width: '50%', height: '50%', objectFit: 'cover' }}
       />
