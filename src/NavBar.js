@@ -7,13 +7,13 @@ const Navbar = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6">Seth Hunter</Typography>
-        <Button color="inherit" href="/sethHunter">
+        <Button color="inherit" href="/Portfolio">
           Home
         </Button>
-        <Button color="inherit" href="/SethHunter/contact">
+        <Button color="inherit" href="/Portfolio/contact">
           Contact
         </Button>
-        <Button color="inherit" href="/SethHunter/projects">
+        <Button color="inherit" href="/Portfolio/projects">
           Projects
         </Button>
       </Toolbar>
